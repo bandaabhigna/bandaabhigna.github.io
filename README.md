@@ -1,32 +1,15 @@
 ## ABHIGNA BANDA
 
-##Study : currently in International Institute of Informayion Technology, Bangalore
+currently studying in International Institute of Informayion Technology, Bangalore
 
-### Markdown
+Computer Languages : C, C++, Python, Java
+Personal Projects : RSA encryption, Kaleidoscope Simulation
+Skills: Data Structures and Algorithms, Computer Architecture, Digital Design, Computer Network
+Study
+10th class : St Joseph's Public School, Hyderabad (ICSE) Score:93% 
+12th class : Vijaya Ratna College, Hyderabad(SSC) Score:96%
+Languages : English, Telugu, Hindi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Interests : Badminton, Basket Ball, competitive programming
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-.
-
-### Contact
-abhi2018nic@gmail.com
+ Contact : abhi2018nic@gmail.com
